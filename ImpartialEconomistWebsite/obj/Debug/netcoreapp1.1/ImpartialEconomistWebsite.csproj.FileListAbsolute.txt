@@ -1,0 +1,9 @@
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\bin\Debug\netcoreapp1.1\ImpartialEconomistWebsite.deps.json
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\bin\Debug\netcoreapp1.1\ImpartialEconomistWebsite.runtimeconfig.json
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\bin\Debug\netcoreapp1.1\ImpartialEconomistWebsite.runtimeconfig.dev.json
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\bin\Debug\netcoreapp1.1\ImpartialEconomistWebsite.dll
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\bin\Debug\netcoreapp1.1\ImpartialEconomistWebsite.pdb
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\obj\Debug\netcoreapp1.1\ImpartialEconomistWebsite.csprojResolveAssemblyReference.cache
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\obj\Debug\netcoreapp1.1\ImpartialEconomistWebsite.AssemblyInfo.cs
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\obj\Debug\netcoreapp1.1\ImpartialEconomistWebsite.dll
+c:\users\terrynsara\documents\visual studio 2017\Projects\ImpartialEconomistWebsite\ImpartialEconomistWebsite\obj\Debug\netcoreapp1.1\ImpartialEconomistWebsite.pdb
